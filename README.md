@@ -10,5 +10,5 @@ Includes distributions, revenue breakdowns, chi-square tests (Size vs Gender/Loc
 - `data/shopping_behavior_updated (1).csv` 
 - `requirements.txt` — Python dependencies.
 
-## Data
-Place your CSV at:
+<img width="750" height="1065" alt="Screenshot 2026-03-03 012051" src="https://github.com/user-attachments/assets/aaef8ca3-c780-436b-a744-5cdfdd120d09" />
+
