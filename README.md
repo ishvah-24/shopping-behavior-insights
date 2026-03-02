@@ -12,3 +12,23 @@ Includes distributions, revenue breakdowns, chi-square tests (Size vs Gender/Loc
 
 <img width="750" height="1065" alt="Screenshot 2026-03-03 012051" src="https://github.com/user-attachments/assets/aaef8ca3-c780-436b-a744-5cdfdd120d09" />
 
+## Project Structure
+
+shopping-behavior-insights/
+├─ src/
+│  └─shopping_behavior_analysis_final.py
+├─ data/
+│  └─ .gitkeep
+|     shopping_behavior_updated (1).csv
+├─ reports/
+│  └─ Shopping Behaviour Insights.pdf
+├─ requirements.txt
+├─ README.md
+└─ .gitignore
+
+## Key Insights
+- Age does not significantly affect revenue (ANOVA p > 0.05)
+- Subscribers vs Non-Subscribers show minimal difference in previous purchases (t-test)
+- Medium is the most purchased size across states and genders
+- Clothing is the highest performing category overall
+- High-loyalty customers generate nearly half of all revenue
